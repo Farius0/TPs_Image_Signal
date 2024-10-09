@@ -33,11 +33,11 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# Calcul de la transformer de fourier de u
+# Calcul de la transformée de fourier de u
 
 Fu = fft(u)
 
-# Son spectre de phase est donner par: 
+# Son spectre de phase est donné par: 
 sp_u = np.abs(Fu)
 ph_u = np.angle(Fu)
 
