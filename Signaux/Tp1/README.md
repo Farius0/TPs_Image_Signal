@@ -1,0 +1,1 @@
+L’objectif de ce TP etait l’analyse temps-fréquence d'ou le spectogramme qui a été étudié ici
